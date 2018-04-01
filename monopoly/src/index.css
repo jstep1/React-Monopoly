@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+h1, h2, h3, p {
+  text-align: center;
+}
+
+#sbmt, #chat {
+  float: right;
+}
+
+.balance {
+  margin-left: 30%;
+}
+
+img {
+  margin: auto;
+}
+
+/* .nav-pills .nav-link.active, .nav-pills .show .red>.nav-link {
+  color: #fff;
+  background-color: red;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show .red>.nav-link {
+  color: #fff;
+  background-color: green;
+} */
